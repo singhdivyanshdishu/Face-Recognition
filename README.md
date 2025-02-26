@@ -1,5 +1,5 @@
 ## Installation
-1. **Download the setup file** from the https://github.com/singhdivyanshdishu/Face-Recognition/releases/tag/v1.0
+1. **Download the setup file** from the https://github.com/singhdivyanshdishu/Face-Recognition/releases/download/v1.0/Face-Recogition-Setup.exe
 2. **Run the setup file**:
    - Double-click on the `Face_Recognition.exe` file.
    - Follow the installation prompts to complete the installation.
